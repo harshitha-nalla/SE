@@ -1,2 +1,2 @@
 # Git-Practice
-Author - Nalla Harshitha
+Author - Nalla Sai Krishna Sri Harshitha
