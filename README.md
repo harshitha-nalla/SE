@@ -1,2 +1,2 @@
-# SE
+# Git-Practice
 Author - Nalla Harshitha
